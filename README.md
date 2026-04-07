@@ -50,8 +50,15 @@ EN: I'm an active contributor to community repositories — recently contributin
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-nascimento-dos-santos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.eduardatech@hotmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/maria-eduarda-nascimento-dos-santos" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:m.eduardatech@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
+
 
 ## GitHub Stats
 
@@ -63,6 +70,8 @@ EN: I'm an active contributor to community repositories — recently contributin
 
 📊 GitHub stats & top languages:
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmaddu&show_icons=true&theme=dracula)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmaddu&layout=compact&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmaddu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmaddu&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmaddu&layout=compact&theme=dracula" alt="Top Langs" />
+</p>
