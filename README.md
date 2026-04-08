@@ -6,7 +6,7 @@ EN: Computer Engineer graduate from UNIFACS (proudly scored 95 on my thesis! �
 
 ## About Me / Sobre mim
 
-🔹 Name: Madu (@itsmaddu)
+🔹 Name: Maria Eduarda (maddu)
 
 🔹 Location: Salvador/BA - Brasil
 
